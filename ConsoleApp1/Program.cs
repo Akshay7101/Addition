@@ -16,6 +16,8 @@ namespace ConsoleApp1
             int Number1 = 20;
 
             Console.WriteLine("Addtion Is --- "+ Addtion(Number,Number1));
+            Console.WriteLine("Addtion Is --- "+ Addtion(Number,Number1));
+
             Console.ReadLine();
         }
 
